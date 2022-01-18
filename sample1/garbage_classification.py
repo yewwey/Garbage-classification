@@ -190,7 +190,6 @@ image_paths = sorted(
 )
 
 print(">>> image count =", len(image_paths))
-print(image_paths)
 
 import numpy as np
 import os
